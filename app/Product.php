@@ -11,5 +11,7 @@ namespace App;
 
 class Product
 {
-
+	function_exists(get){
+		
+	}
 }

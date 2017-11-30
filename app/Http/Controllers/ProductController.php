@@ -14,5 +14,6 @@ class ProductController
     public function index()
     {
 
+    	$tamvah = true;
     }
 }
