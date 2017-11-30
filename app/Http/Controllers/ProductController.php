@@ -11,6 +11,10 @@ namespace App\Http\Controllers;
 
 class ProductController
 {
+    public function __construct()
+    {
+        $succeed = TRUE;
+    }
     public function index()
     {
 
