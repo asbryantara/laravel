@@ -16,4 +16,12 @@ class ProductController
 
     	$tamvah = true;
     }
+
+    public function tambah1()
+    {
+    	$blabla;
+    	$tamvah = true;
+    }
+
+
 }
