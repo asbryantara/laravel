@@ -12,6 +12,6 @@ namespace App;
 class Product
 {
 	function_exists(get){
-		
+		$query = "select blabla from blabla"
 	}
 }
